@@ -1,0 +1,5 @@
+G:\GridRTree\GridRTree\bin\Release\SpatialIndex.GridRTree.dll
+G:\GridRTree\GridRTree\bin\Release\SpatialIndex.GridRTree.pdb
+G:\GridRTree\GridRTree\obj\Release\ResolveAssemblyReference.cache
+G:\GridRTree\GridRTree\obj\Release\SpatialIndex.GridRTree.dll
+G:\GridRTree\GridRTree\obj\Release\SpatialIndex.GridRTree.pdb
