@@ -1,7 +1,0 @@
-G:\SkylineSimulation\DominanceTestCountSimulation\bin\Release\DominanceTestCountSimulation.dll
-G:\SkylineSimulation\DominanceTestCountSimulation\bin\Release\DominanceTestCountSimulation.pdb
-G:\SkylineSimulation\DominanceTestCountSimulation\bin\Release\SpatialIndex.GridRTree.dll
-G:\SkylineSimulation\DominanceTestCountSimulation\bin\Release\SpatialIndex.GridRTree.pdb
-G:\SkylineSimulation\DominanceTestCountSimulation\obj\Release\ResolveAssemblyReference.cache
-G:\SkylineSimulation\DominanceTestCountSimulation\obj\Release\DominanceTestCountSimulation.dll
-G:\SkylineSimulation\DominanceTestCountSimulation\obj\Release\DominanceTestCountSimulation.pdb
