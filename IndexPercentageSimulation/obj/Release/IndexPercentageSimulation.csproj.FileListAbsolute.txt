@@ -1,7 +1,0 @@
-G:\SkylineSimulation\IndexPercentageSimulation\bin\Release\IndexPercentageSimulation.dll
-G:\SkylineSimulation\IndexPercentageSimulation\bin\Release\IndexPercentageSimulation.pdb
-G:\SkylineSimulation\IndexPercentageSimulation\bin\Release\SpatialIndex.GridRTree.dll
-G:\SkylineSimulation\IndexPercentageSimulation\bin\Release\SpatialIndex.GridRTree.pdb
-G:\SkylineSimulation\IndexPercentageSimulation\obj\Release\ResolveAssemblyReference.cache
-G:\SkylineSimulation\IndexPercentageSimulation\obj\Release\IndexPercentageSimulation.dll
-G:\SkylineSimulation\IndexPercentageSimulation\obj\Release\IndexPercentageSimulation.pdb
